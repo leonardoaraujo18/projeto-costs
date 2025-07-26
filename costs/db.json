@@ -21,8 +21,40 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "ef81",
+      "name": "Novo Projeto",
+      "budget": "900",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "eda8",
+      "name": "Teste 2",
+      "budget": "1200",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "8e39",
+      "name": "Meu projeto",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
     }
-   
   ],
   "categories": [
     {
