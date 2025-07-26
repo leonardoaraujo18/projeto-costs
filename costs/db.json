@@ -1,26 +1,6 @@
 {
   "project": [
     {
-      "id": "2554",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "74ba",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "4be3",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "57b3",
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "6c9c",
       "name": "Teste",
       "budget": "5000",
@@ -28,31 +8,6 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "3333",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "5a2f",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "c4de",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "5614",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "f5f9",
       "cost": 0,
       "services": []
     },
@@ -67,6 +22,7 @@
       "cost": 0,
       "services": []
     }
+   
   ],
   "categories": [
     {
